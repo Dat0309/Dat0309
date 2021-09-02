@@ -2,7 +2,7 @@
 
 ### I'm a Student studying information technology at Datlat University! 🏫
 
-- 🌱 I’m currently learning Python, C#,...
+- 🌱 I’m currently learning, making android application, window application,...
 - 👯 I’m looking to collaborate with other content creators
 - 📜 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Besides studying, I also like to play guitar and read books
