@@ -1,48 +1,31 @@
-### Hi there, I'm Dinh Trong Dat 👋
+<h1 align="center">Hi 👋, I'm Dinh Trong Dat</h1>
+<h3 align="center">I'm a Student studying information technology at Datlat University!</h3>
+<td width="52%"><img alt="gif" align="right" src="coding.gif"/></td>
 
-### I'm a Student studying information technology at Datlat University! 🏫
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dat0309" alt="dat0309" /></a> </p>
 
-- 🌱 I’m currently learning, making android application, window application,...
-- 👯 I’m looking to collaborate with other content creators
-- 📜 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: Besides studying, I also like to play guitar and read books
+- 🌱 I’m currently learning **Android application development,..**
 
-### Connect with me:
-[<img align="left" alt="_datmopmeodonart | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Đinh Trọng Đạt | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+- 👨‍💻 All of my projects are available at [https://github.com/Dat0309?tab=repositories](https://github.com/Dat0309?tab=repositories)
 
-<br />
+- 💬 Ask me about **Java, C#,Python,...**
 
-### Languages and Tools:
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python1]
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
-[<img align="left" alt="OOP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][csharp]
+- 📫 How to reach me **anhtheboy011@gmail.com**
 
-<br />
-<br />
+- ⚡ Fun fact **Besides studying, I also like to play guitar and read books**
 
-<summary>:zap: GitHub Stats</summary>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/https://www.facebook.com/toiladat.39/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/toiladat.39/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/__datmopmeodonart/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__datmopmeodonart/" height="30" width="40" /></a>
+</p>
 
-<table>
-<tr>
-  <td width="48%>
-    <img src="https://github-readme-stats.vercel.app/api?username=Dat0309&show_icons=true&hide=contribs,issues&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dat0309&layout=compact&show_icons=true&hide_border=true" />
-  </td>
-  <td width="52%"><img alt="gif" align="right" src="coding.gif"/></td>
-</tr>
-<table>
-   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dat0309&show_icons=true&theme=radical)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dat0309&show_icons=true&locale=en&layout=compact" alt="dat0309" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dat0309&show_icons=true&locale=en" alt="dat0309" /></p>
 
-[instagram]:https://www.instagram.com/__datmopmeodonart/
-[facebook]:https://www.facebook.com/toiladat.39/
-[python1]:https://github.com/Dat0309/Make-app-facemask-detect
-[python2]:https://github.com/Dat0309/realtime_face_recognition
-[python3]:https://github.com/Dat0309/Connect_Camere_With_GUI_PyQt5
-[sql]:https://github.com/Dat0309/CSDL
-[java]:https://github.com/Dat0309/LapTrinhJAVA
-[csharp]:https://github.com/Dat0309/oop-ldt2
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dat0309&" alt="dat0309" /></p>
+
