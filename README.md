@@ -4,7 +4,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dat0309" alt="dat0309" /></a> </p>
 
-- 🌱 I’m currently learning **Android application development,..**
+- 🌱 I’m currently learning **Software development,..**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dat0309?tab=repositories](https://github.com/Dat0309?tab=repositories)
 
