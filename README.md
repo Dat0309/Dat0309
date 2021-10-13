@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dinh Trong Dat</h1>
 <h3 align="center">I'm a Student studying information technology at Datlat University!</h3>
-<td width="52%"><img alt="gif" align="right" src="coding.gif"/></td>
+<td width="100%"><img alt="gif" align="center" src="coding.gif"/></td>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dat0309" alt="dat0309" /></a> </p>
+
 
 - 🌱 I’m currently learning **Software development,..**
 
