@@ -3,6 +3,7 @@
 <td width="100%"><img alt="gif" align="center" src="coding.gif"/></td>
 
 
+
 - 🌱 I’m currently learning **Software development,..**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dat0309?tab=repositories](https://github.com/Dat0309?tab=repositories)
