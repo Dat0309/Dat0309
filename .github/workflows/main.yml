@@ -41,6 +41,10 @@ jobs:
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_limit: 8
+          plugin_topics: yes
+          plugin_topics_sort: stars    # Sort by most starred topics
+          plugin_topics_mode: icons    # Display icons instead of labels
+          plugin_topics_limit: 0       # Disable limitations
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
@@ -58,7 +62,3 @@ jobs:
           plugin_repositories_batch: 100
           plugin_stars: yes
           plugin_stars_limit: 4
-          plugin_topics: yes
-          plugin_topics_sort: stars    # Sort by most starred topics
-          plugin_topics_mode: icons    # Display icons instead of labels
-          plugin_topics_limit: 0       # Disable limitations
