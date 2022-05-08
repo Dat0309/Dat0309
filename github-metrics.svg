@@ -3173,22 +3173,22 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">b511cbab</span>
-                            <span class="code">doctor-appointment/android/gradle/wrapper/gradle-wrapper.properties</span>
-                            <span class="code"><span class="snippet additions">++0</span> <span class="snippet deletions">--5</span></span>
+                            <span class="code">doctor-appointment/src/zone-flags.ts</span>
+                            <span class="code"><span class="snippet additions">++0</span> <span class="snippet deletions">--6</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,5 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">distributionBase=GRADLE_USER_HOME<br /></span><span class="token prefix deleted">-</span><span class="token line">distributionPath=wrapper/dists<br /></span><span class="token prefix deleted">-</span><span class="token line">distributionUrl=https\://services.gradle.org/distributions/gradle-7.0-all.zip<br /></span><span class="token prefix deleted">-</span><span class="token line">zipStoreBase=GRADLE_USER_HOME<br /></span><span class="token prefix deleted">-</span><span class="token line">zipStorePath=wrapper/dists</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,6 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">/**<br /></span><span class="token prefix deleted">-</span><span class="token line">* Prevents Angular change detection from<br /></span><span class="token prefix deleted">-</span><span class="token line">* running with certain Web Component callbacks<br /></span><span class="token prefix deleted">-</span><span class="token line">*/<br /></span><span class="token prefix deleted">-</span><span class="token line">// eslint-disable-next-line no-underscore-dangle<br /></span><span class="token prefix deleted">-</span><span class="token line">(window as any).__Zone_disable_customElements = true;</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 May 2022, 04:19:16 (timezone Asia/Saigon) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 9 May 2022, 05:21:47 (timezone Asia/Saigon) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
