@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2648" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2635" class="">
     <defs>
         <style/>
     </defs>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    22.2m added, 2.72m removed
+                                    22.3m added, 2.73m removed
                                 </div>
                             </section>
                             <section>
@@ -3161,7 +3161,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">c0386d8f</span>
-                            <span class="code">doctor-appointment/src/app/pages/my-appointment/my-appointment.page.html</span>
+                            <span class="code">doctor-appointment/src/app/app-routing.module.ts</span>
                             <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
                         </div>
                     </section>
@@ -3169,14 +3169,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -9,7 +9,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">&lt;/ion-header&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;ion-content&gt;<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">&lt;ion-card *ngFor="let appointment of appointments$; let i = index" class="ion-margin"&gt;<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">&lt;ion-card *ngFor="let appointment of appointments$; let i = index" (click)="detailAppointment(appointment._id)" class="ion-margin"&gt;<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">&lt;ion-card-header&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">	&lt;ion-card-subtitle</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -112,7 +112,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  loadChildren: () =&gt; import('./pages/lab-info/lab-info.module').then(m =&gt; m.LabInfoPageModule)<br /></span><span class="token prefix unchanged">·</span><span class="token line">},<br /></span><span class="token prefix unchanged">·</span><span class="token line">{<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">  path: 'search-test', <br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">  path: 'search-test',<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  loadChildren: () =&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">    import('./pages/search-test/search-test.module').then(<br /></span><span class="token prefix unchanged">·</span><span class="token line">      (m) =&gt; m.SearchTestPageModule</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jun 2022, 19:33:47 (timezone Asia/Saigon) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 4 Jun 2022, 20:25:34 (timezone Asia/Saigon) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
